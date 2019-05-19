@@ -1,5 +1,5 @@
 package com.krupa;
-
+// i will commented
 public interface Bank {
 	
 	void interestRate(double rate);
